@@ -1,5 +1,5 @@
 <h2 align="center">
-    Estudos de caso SQL e JQPL </br>
+    Estudos de caso SQL e JPQL </br>
     Desafios da plataforma Beecrowd
 </h2>
 <div align="center">
